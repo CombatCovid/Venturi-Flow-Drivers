@@ -1,0 +1,29 @@
+---
+title: StarMed Ventumask 30 with Venturi flow driver for CPAP therapy
+description: > 
+    StarMed Ventumask 30 is a unique design for CPAP therapy that is simply activated by connecting 
+    to an appropriate oxygen supply. It can be used in a hospital environment or pre-hospital use.
+keywords:
+  - covid-19
+  - medical equipment
+  - repiratory applications
+  - Venturi flow driver
+  - pressure manometer
+project-link: https://www.intersurgical.com/products/critical-care/starmed-ventumask-30-with-venturi-flow-driver-for-cpap-therapy
+repository-link: https://github.com/CombatCovid/Venturi-Flow-Drivers
+made: true
+made-independently: false
+license:
+  hardware: Put the license
+okh-manifest-version: 1.0.0
+date-updated: yyyy-mm-dd
+manifest-author:
+  name: author
+  affiliation: Intersurgical S.p.A. - Mirandola (MO) - Italy
+contributors:
+  - A name
+  - Another name
+sub-parts:
+  - undefined
+  - undefined
+---
